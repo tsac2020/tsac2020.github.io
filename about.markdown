@@ -21,9 +21,6 @@ The abstracts will be selected by a committee consisting of researchers, academi
 
 The objectives of TSAC2020 are:
 * To motivate Thai students in Europe to be aware of their cooperation as students for Thai society and economic growth as well as to prepare themselves for the global community.
-* 
 * To support the academic success of Thai students in Europe
-* 
 * To maintain a network and academic partnership between students in different academic and social backgrounds for the great benefit of Thailand in the future.
-* 
 * To promote the research and development capabilities to be in line with current problems in Thailand and to increase the opportunities and progress of the country.
