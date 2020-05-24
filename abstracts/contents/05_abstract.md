@@ -61,7 +61,7 @@ Sathish, Veerasamy, Arumugam Ramdass, Pounraj Thanasekaran, Kuang-Lieh Lu, and S
 
 # การทำงานร่วมกันของอันตรกิริยาที่ไม่ใช่พันธะโคเวเลนต์ในสารประกอบเชิงซ้อนโลหะแพลทินัม
 
-## นักวิจัย
+## โดย
 
 - ฉัตรทริกา สุขพัฒนาเจริญ (CS)
 - Prashant Kumar (PK)
