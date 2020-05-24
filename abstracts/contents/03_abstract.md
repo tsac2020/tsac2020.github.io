@@ -29,6 +29,8 @@ Unlike most of earlier works on environments for elders, this study focuses excl
 
 ## Figure
 
+![Figure 03](abstracts/figures/03_figure.png)
+
 Figure A and B: Town plan with the contour of a case study of a village in Thailand with the locations of older adults’ residential sites (A) and an example of a case study of a residential site plan (B), (Hongthong 2019).
 
 ## Abstract
