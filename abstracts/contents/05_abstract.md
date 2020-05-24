@@ -65,6 +65,7 @@ Sathish, Veerasamy, Arumugam Ramdass, Pounraj Thanasekaran, Kuang-Lieh Lu, and S
 - Prashant Kumar (PK)
 - นาวี กังวาลย์ (NK), (\*)
 - Daniel Escudero (DE), (\*)
+
 (\*) ผู้รับผิดชอบหลัก (NK: naweekung@gmail.com และ DE: daniel.escudero@kuleuven.be)
 
 ## ประวัตินักวิจัย
