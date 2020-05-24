@@ -30,6 +30,8 @@ Parasitic two-level systems (TLS) coupling to a superconducting quantum circuit 
 
 ## Figure
 
+![Figure 08](../figures/08_figure.png)
+
 (Top left) schematic of measurement setup, (right) a dilution refrigerator that hosts a SAW resonator, and (bottom left) resonance frequency fluctuations calculated from three different modes of a SAW resonator, showing similar features.
 
 ## Abstract

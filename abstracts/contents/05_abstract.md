@@ -31,6 +31,8 @@ Pt···Pt contacts are more evident in the trimer aggregates rather than in the
 
 ## Figure
 
+![Figure 05](../figures/05_figure.png)
+
 Scheme 1. Molecular geometry of monomer Pt1-Pt4 and schematic representation of monomer, dimer, and trimer.
 หัวข้อ การทำงานร่วมกันของอันตรกิริยาที่ไม่ใช่พันธะโคเวเลนต์ในสารประกอบเชิงซ้อนโลหะแพลทินัม
 
