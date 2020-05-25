@@ -1,4 +1,4 @@
-# Main title: Cooperativity in non-covalent metallophilic Pt···Pt interactions
+# Cooperativity in non-covalent metallophilic Pt···Pt interactions
 
 ## Second title
 
