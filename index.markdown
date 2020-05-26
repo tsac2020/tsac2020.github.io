@@ -10,3 +10,5 @@ layout: page
 ISSN XXXX-XXXX-XXXX
 
 Vol.1 Issue.1 January-December 2000 will be out soon.
+
+![Cover](images/cover.jpg)
