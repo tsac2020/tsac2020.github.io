@@ -16,6 +16,7 @@ Received: 13 February 2020, Accepted: 03 June 2020, Published: 26 July 2020
 Pt···Pt contacts are more evident in the trimer aggregates rather than in the dimer ones, and especially in the case of the T1 optimized geometries. Esyn and E-EA values indicate a positive synergy between both interactions which is in good agreement with the shortening of the equilibrium distance in T1 state. The EDA reveals that the ∆Etot of trimer Pt1a is controlled by the ∆Eele and ∆Edisp terms.
 
 ## Keywords
+
 Isoquinolinyl pyrazolate Pt(II) complex; Cooperativity in non-covalent interactions; Cooperativity effects; Energy decomposition analysis (EDA)
 
 ## Figure
@@ -55,6 +56,6 @@ CS would like to thank The Science Achievement Scholarship of Thailand (SAST) fo
 - Mahadevi, A. Subha, and G. Narahari Sastry. 2016 "Cooperativity in noncovalent interactions." Chemical reviews 116 (5): 2775-2825.
 - Sathish, Veerasamy, Arumugam Ramdass, Pounraj Thanasekaran, Kuang-Lieh Lu, and Seenivasan Rajagopal. 2015. "Aggregation-induced phosphorescence enhancement (AIPE) based on transition metal complexes—An overview." Journal of Photochemistry and Photobiology C: Photochemistry Reviews 23: 25-44.
 
-### License
+## License
  
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License, which permits to copy and redistribute the material in any medium or format. You are also allowed to remix, transform, and build upon the material under the following terms: 1) You must give appropriate credit, provide a link to the license, and indicate if changes were made. 2) You may not use the material for commercial purposes. 3) If you remix, transform or build upon the material, you must distribute your contributions under the same license as the original. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
