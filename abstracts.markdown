@@ -54,6 +54,7 @@ permalink: /abstracts/
 
 ### Effects of Macro Uncertainty on Subjective Uncertainty and Mean Expectation
 - Authors: Giulia Piccillo, Poramapa Poonpakdee
+- Abstract: [html](abstracts/contents/26_abstract.md)
 
 ### Xanthine Oxidoreductase Mediates Nitrite-Induced Platelet Inhibition
 - Authors: Tipparat Parakaw, Rayomand Khambata, Amrita Ahluwalia
