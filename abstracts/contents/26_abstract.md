@@ -25,8 +25,13 @@ macro uncertainty, subjective uncertainty, expectation, microdata, forecast
 
 | Subjective uncertainty | US Real GDP growth | EU Real GDP growth | US Personal Income growth | Dutch HH income level |
 | --- | --- | --- | --- | --- |
-
-
+| EPUt | 0.05\*\* | 0.06\*\* | -0.15\*\* | -0.29\*\* |
+|EPUt-1|-0.02|-0.001|-0.03|-0.19*|
+|Subj. uncetaintyt-1|0.30\*\*\*|0.47\*\*\*|0.00|-0.06\*|
+|Macro variables|Y|Y|Y|Y|
+|Personal variables|N|N|Y|Y|
+|N|3,028|3,520|37,880|5,327|
+|R-squared|0.43|0.53|0.01|0.00|
 
 \* p < 0.1, \*\* p < 0.05, \*\*\* p< 0.01, This table reports fixed-effect panel regressions of subjective uncertainty (S.D.) against Economic Policy Uncertainty index (EPU), macro variables and personal variables. Macro variables are macroeconomic data such as GDP growth and GDP deceleration dummy. Personal variables are retrieved from household surveys such as college education dummy and personal income.
 
