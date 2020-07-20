@@ -4,4 +4,4 @@ title: Abstracts
 permalink: /abstracts/
 ---
 
-![Figure 03](abstracts/contents/03_abstract.md)
+[Abstract 03](abstracts/contents/03_abstract.md)
