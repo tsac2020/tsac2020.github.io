@@ -5,9 +5,7 @@
 layout: page
 ---
 
-# Thai Student Academic Journal (TSAJ)
-
-ISSN XXXX-XXXX-XXXX
+ISSN: 2730-2121
 
 Vol.1 Issue.1 January-December 2020 will be out soon.
 
