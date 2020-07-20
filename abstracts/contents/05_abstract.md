@@ -20,7 +20,7 @@ Isoquinolinyl pyrazolate Pt(II) complex; Cooperativity in non-covalent interacti
 
 ## Figure
 
-![Figure 05](../figures/05_figure.tif)
+![Figure 05](../figures/05_figure.jpg)
 
 Scheme 1. Molecular geometry of monomer Pt1-Pt4 and schematic representation of monomer, dimer, and trimer.
 
