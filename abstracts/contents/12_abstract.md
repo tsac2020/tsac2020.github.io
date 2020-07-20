@@ -22,14 +22,14 @@ Defamation, Insult, Online Speech, Personality Rights, Freedom of Expression
 
 ## Figure
 
-Table: The summary of 16 Thai Supreme Court Decisions (‘Dika’) published in (http://deka.supremecourt.or.th/) in the last five years (2557-2562) where the Court decided the criminal liability under the offence of defamation of the defendants.
-
 | The reputation of the injured parties is protected under these circumstances: | Freedom of expression of the defendant is protected under these circumstances: |
 |---|---|
 | (1) The individual imputed the injured party as a fraud. [Dika no: 10839/2557]; the individual made the public degrade the personal value of the injured party [Dika no 5172/2557] | (1) The conducts of the defendant were not considered as committing the offence of defamation  [Dikas no: 19384/2557, 10840/57 6494/2561, 1199/2557] |
 | (2) The newspapers who published untrue news which made the injured parties look bad to the public [Dikas no: 4998/2558, 2137/2557; 319/2560]. This includes the newspaper who published the news without carefully check its source. [Dika: 14169/2557] | (2) Although the conducts of the defendants were commissions of the offence of defamation, these defendants were not guilty: |
 |   | (2.1) Those who expressed their opinion or statement to protect their legitimate interests [Dikas no: 375/2562, 11118/2558, 1119/2558]; |
-|   | (2.1) Those who published news regarding public interest. [Dikas no: 3546/2558, 2813/2559, 6747/2560]. This includes the defendant who carefully published news regarding public interest but that news was untrue. [Dikas no: 16275/2557] |
+|   | (2.2) Those who published news regarding public interest. [Dikas no: 3546/2558, 2813/2559, 6747/2560]. This includes the defendant who carefully published news regarding public interest but that news was untrue. [Dikas no: 16275/2557] |
+
+Table: The summary of 16 Thai Supreme Court Decisions (‘Dika’) published in (http://deka.supremecourt.or.th/) in the last five years (2557-2562) where the Court decided the criminal liability under the offence of defamation of the defendants.
 
 ## Abstract
 
