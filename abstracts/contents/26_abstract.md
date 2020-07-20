@@ -23,9 +23,7 @@ macro uncertainty, subjective uncertainty, expectation, microdata, forecast
 
 ## Figure
 
-||||||
-|Subjective uncertainty|US Real GDP growth|EU
-Real GDP growth|US Personal Income growth|Dutch HH income level|
+|Subjective uncertainty|US Real GDP growth|EU Real GDP growth|US Personal Income growth|Dutch HH income level|
 |EPUt|0.05\*\*|0.06\*\*|-0.15\*\*|-0.29\*\*|
 |EPUt-1|-0.02|-0.001|-0.03|-0.19*|
 |Subj. uncetaintyt-1|0.30\*\*\*|0.47\*\*\*|0.00|-0.06\*|
