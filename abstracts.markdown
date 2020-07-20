@@ -4,4 +4,4 @@ title: Abstracts
 permalink: /abstracts/
 ---
 
-[Abstract 03](abstracts/contents/03_abstract.md)
+[The residential site environmental preferences of older adults in a rural Asian context from a case study of a village in Northern Thailand](abstracts/contents/03_abstract.md)
