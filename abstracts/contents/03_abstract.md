@@ -4,7 +4,7 @@ Received: 04 February 2020, Accepted: 10 June 2020, Published: 26 July 2020
 
 ## Authors
 
-- Alisa Hongthong (\*)
+- Alisa Hongthong \*
 - Patricia Noxolo
 - Lloyd Jenkins
 - Yueming Zhang
@@ -62,3 +62,7 @@ Alisa Hongthong acknowledges funding support from Chiang Mai University, Thailan
 - Wang, Zhe, and Chanam Lee. 2010. "Site and neighborhood environments for walking among older adults." Health & Place no. 16 (6):1268-1279.
 - Wang, Zhe, Susan Rodiek, and Mardelle Shepley. 2006. Residential Site Environments and Yard Activities of Older Adults. In Report on University Research: Texas A&M University.
 - Williams, Daniel, and Michael Patterson. 2008. "Place, Leisure, and Well-being Place." In, 105-119.
+
+### License
+ 
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License, which permits to copy and redistribute the material in any medium or format. You are also allowed to remix, transform, and build upon the material under the following terms: 1) You must give appropriate credit, provide a link to the license, and indicate if changes were made. 2) You may not use the material for commercial purposes. 3) If you remix, transform or build upon the material, you must distribute your contributions under the same license as the original. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
