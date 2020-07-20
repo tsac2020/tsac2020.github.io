@@ -23,8 +23,8 @@ macro uncertainty, subjective uncertainty, expectation, microdata, forecast
 
 ## Figure
 
-| | Left Align | Right Align | Center Align | Last |
-| | Left Align | Right Align | Center Align | Last |
+| Subjective uncertainty | US Real GDP growth | EU Real GDP growth | US Personal Income growth | Dutch HH income level |
+| --- | --- | --- | --- | --- |
 
 
 
