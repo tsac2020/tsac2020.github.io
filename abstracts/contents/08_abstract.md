@@ -23,7 +23,7 @@ superconducting quantum computer, quantum circuit, two-level system, surface aco
 
 ## Figure
 
-![Figure 08](../figures/08_figure.png)
+![Figure 08](../figures/08_figure.jpg)
 
 (Top left) schematic of the measurement setup, (right) a dilution refrigerator that hosts a SAW resonator, and (bottom left) resonance frequency fluctuations calculated from three different modes of a SAW resonator, showing similar features.
 
