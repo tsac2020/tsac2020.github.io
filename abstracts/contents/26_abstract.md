@@ -24,7 +24,7 @@ macro uncertainty, subjective uncertainty, expectation, microdata, forecast
 ## Figure
 
 | | Left Align | Right Align | Center Align | Last |
-| --- | --- | --- | --- | --- |
+| | Left Align | Right Align | Center Align | Last |
 
 
 
