@@ -1,6 +1,6 @@
 # Identification of volatile organic compounds by use of Field Asymmetric Ion Mobility Spectrometry
 
-Received: 28 February 2020, Accepted: 06 June 2020, Published: 26 July 2020
+Science & Engineering (Received: 28 February 2020, Accepted: 06 June 2020, Published: 26 July 2020)
 
 ## Authors
 

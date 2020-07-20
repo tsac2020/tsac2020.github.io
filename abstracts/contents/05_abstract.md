@@ -1,6 +1,6 @@
 # Cooperativity in non-covalent metallophilic Pt···Pt interaction of aggregated square-planar Pt(II) complexes bearing isoquinolinyl pyrazolate: Theoretical insights
 
-Received: 13 February 2020, Accepted: 03 June 2020, Published: 26 July 2020
+Science & Engineering (Received: 13 February 2020, Accepted: 03 June 2020, Published: 26 July 2020)
 
 ## Authors
 

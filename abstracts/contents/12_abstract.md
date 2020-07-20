@@ -1,6 +1,6 @@
 # Regulating Online Defamatory and Insulting Speech under Thai Law
 
-Received: 20 February 2020, Accepted: 08 June 2020, Published: 26 July 2020
+Law, Business & Finance (Received: 20 February 2020, Accepted: 08 June 2020, Published: 26 July 2020)
 
 ## Second title
 

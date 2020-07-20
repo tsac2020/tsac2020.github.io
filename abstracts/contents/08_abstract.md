@@ -1,6 +1,6 @@
 # Investigating a challenge of building a superconducting quantum computer
 
-Received: 17 February 2020, Accepted: 10 June 2020, Published: 26 July 2020
+Science & Engineering (Received: 17 February 2020, Accepted: 10 June 2020, Published: 26 July 2020)
 
 ## Second title
 
