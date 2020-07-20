@@ -1,8 +1,4 @@
-# The residential site environmental preferences of older adults in a rural Asian context from a case study of a village in Northern Thailand
-
-Received: 04 February 2020 
-Accepted: 10 June 2020
-Published: 26 July 2020
+Received: 04 February 2020, Accepted: 10 June 2020, Published: 26 July 2020
 
 ## Authors
 
