@@ -58,5 +58,5 @@ permalink: /abstracts/
 - Abstract: [link](abstracts/contents/26_abstract.md)
 
 ### Xanthine Oxidoreductase Mediates Nitrite-Induced Platelet Inhibition
-- Authors: Tipparat Parakaw, Rayomand Khambata, Amrita Ahluwalia*
+- Authors: Tipparat Parakaw, Rayomand Khambata, Amrita Ahluwalia
 - Abstract: [link](abstracts/contents/27_abstract.md)
