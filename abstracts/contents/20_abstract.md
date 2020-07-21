@@ -45,6 +45,22 @@ Image inpainting is one of the image processing procedures used to restore corru
 
 The code is developed in Python programming language; which is friendly with problems such as machine learning. The python code is combined with PyTorch (a library for Tensor algebra), GPU computing and Deep Learning. The repository is available at https://github.com/fedmag/DeepVision. Encoding layers are designed to mimic the VGG16 architecture, while the decoder is made under a re-elaboration of the DCGAN (Deep Convolutional Generative Adversarial Network) architecture. Concerning the dataset all images are transformed into the grayscale and resized into 100×100 pixels, regardless of the original ratio, we used such images as the ground-truths and split them ’randomly’ into training and test sets. We have added artificial damage to images by adding a black square to the image randomly.  We have set the first experiment, that occultation ratio corresponds to 20% of the image area. Both homogeneous and heterogeneous dataset are represented by 25,000 images of the training set and 2,000 images of the test set.  The homogeneous dataset is represented by Flickr-Faces-HQ Dataset (FFHQ) (https://github.com/NVlabs/ffhq-dataset), while the heterogeneity is subjected to Animal-10 Dataset (https://www.kaggle.com/alessiocorrado99/animals10). In the second experiment, we have set the 40% area of artificial damage to only one dataset which has better results. The occulted area is considered into two cases; 1x40% occulted square and 2x20% occulted square. In order to evaluate how good the results are, Structural similarity (SSIM) index is computed for every image, with their statistical values of SSIM for the various dataset. SSIM can be determined by the multiplication of 3 measurements which compare the similarity of two images in term of luminance, contrast and structure SSIM can be mathematically determined as follows,
 
+$\alpha$
+\alpha
+$A$
+A
+$\beta$
+\beta
+$B$
+B
+
+$k_{n+1}$
+k_{n+1}
+$n^2$
+n^2
+$k_n^2$
+k_n^2
+
 ### Result 
 
 In this study, experiments have been performed, in order to consider the effect of homogeneity of the dataset to the result of autoencoders and the result of the different situations of the occultation, which is considered as corrupted region, the images of animals from ANIMAL-10 database are used to represent data with heterogeneity.  On the other hand, the representation of homogeneous data is faced from Flickr-Faces-HQ (FFHQ) database, which leads to the resulting Structural Similarity Index (SSIM) as shown in the table 1.
