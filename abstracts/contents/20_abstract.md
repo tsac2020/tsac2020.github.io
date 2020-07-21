@@ -47,28 +47,16 @@ The code is developed in Python programming language; which is friendly with pro
 
 - SSIM(x, y) = l(x, y)c(x, y)s(x, y)
 - l(x, y) = (2μ<sub>x</sub>μ<sub>y</sub> + c<sub>1</sub>) / (μ<sub>x</sub><sup>2</sup> + μ<sub>y</sub><sup>2</sup> + c<sub>1</sub>)
+- c(x, y) = (2σ<sub>x</sub>σ<sub>y</sub> + c<sub>2</sub>) / (σ<sub>x</sub><sup>2</sup> + σ<sub>y</sub><sup>2</sup> + c<sub>2</sub>)
+- s(x, y) = (σ<sub>xy</sub> + c<sub>3</sub>) / (σ<sub>x</sub>σ<sub>y</sub> + c<sub>3</sub>)
 
-$\alpha$
-\alpha
-$A$
-A
-$\beta$
-\beta
-$B$
-B
+where μ<sub>x</sub> and μ<sub>y</sub> are average of the pixel value in x and y respectively, σ<sub>x</sub><sup>2</sup> and σ<sub>y</sub><sup>2</sup> are the variance of the pixel value in each image, and σ<sub>xy</sub> is the covariance of image x and y. Moreover, c<sub>1</sub>, c<sub>2</sub>, and c<sub>3</sub> are hyperparameters which are defined as,
 
-$k_{n+1}$
-k_{n+1}
-$n^2$
-n^2
-$k_n^2$
-k_n^2
+- c<sub>1</sub> = (k<sub>1</sub>L)<sup>2</sup>
+- c<sub>2</sub> = (k<sub>2</sub>L)<sup>2</sup>
+- c<sub>3</sub> = c<sub>2</sub> / 2
 
-μ
-
-σ
-
-<sup>superscript</sup>
+where k<sub>1</sub>=0.01, k<sub>2</sub>=0.03 by default, and L=2<sup>#bits per pixel</sup>-1 is the dynamic range of pixel values. SSIM of images is represented in the form of statistical average and standard deviation, in order to justify the performance of the trained model
 
 ### Result 
 
