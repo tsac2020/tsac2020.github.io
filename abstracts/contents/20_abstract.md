@@ -61,6 +61,12 @@ n^2
 $k_n^2$
 k_n^2
 
+μ
+
+σ
+
+<sup>superscript</sup>
+
 ### Result 
 
 In this study, experiments have been performed, in order to consider the effect of homogeneity of the dataset to the result of autoencoders and the result of the different situations of the occultation, which is considered as corrupted region, the images of animals from ANIMAL-10 database are used to represent data with heterogeneity.  On the other hand, the representation of homogeneous data is faced from Flickr-Faces-HQ (FFHQ) database, which leads to the resulting Structural Similarity Index (SSIM) as shown in the table 1.
