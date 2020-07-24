@@ -1,4 +1,4 @@
-# Protein extraction from Rice bran
+# Protein extraction from Rice bran 
 
 Medicine & Biology (Received: 29 February 2020, Accepted: 05 July 2020, Published: 26 July 2020)
 
@@ -18,13 +18,13 @@ Rice bran is a by-product of the rice milling process, which is classified as a 
 
 ## Keywords
 
-Rice brans protein, Enzymatic extraction, Rice bran optimization, Characterization of Rice protein
+Rice brans protein, Enzymatic extraction, Rice bran optimization, Characterization of Rice protein 
 
 ## Figure
 
 ![Figure 17](../figures/17_figure.jpg)
 
-Figure A: The results of protein mass from enzyme activity: 6,500, 13,000 and 26,000 U/ml and the time used: 1, 2 and 4 hours.
+(A) The results of protein mass from cellulase activity: 6,500, 13,000 and 26,000 U/ml and the time used: 1, 2 and 4 hours. (B) The protein solubility results. (C) The FTIR results. (D) SDS-PAGE results for the extracted Rice brans proteins.
 
 ## Abstract
 
@@ -40,12 +40,12 @@ In this experiment, three enzyme amounts (cellulose) were investigated including
 
 ### Results
 
-Figure A shows that the most effective enzyme activity and time used in protein extraction from Sangyod rice brans are 26,000 U/ml and 4 hours respectively. Moreover, it is found that protein yield is slightly increased after 4 hours, in which 4 hours is the optimum time for extraction that yields are closest the highest amount of protein. As regards to the protein mass contents, at 4 hours of 26000 U/ml enzyme activities contains the highest protein amount, which is obtained 87.36, 85.63 and 84.81 microgram protein from 20 microliters of the sample and the average protein mass is 85.93 microgram. Therefore, 0.322 gram of protein is obtained from 75 mL of the total sample solution, which is originally mixed with 10 grams of rice bran. (yield is approximately 32.2% on average).
+(A) the optimization part shows that the most effective enzyme activity and the time used in protein extraction from Sangyod rice brans are 26,000 U/ml and 4 hours respectively. Moreover, it is found that protein yield is only slightly increased after 4 hours. With regards to the protein mass contents, the optimum condition contains the highest protein amount, which is obtained 85.93 microgram protein on average from 20 microliters of the sample. Therefore, 0.322 gram of protein is obtained from 75 mL of the total sample solution, which is originally mixed with 10 grams of rice bran. (yield is approximately 3.22% on average). As can be seen from (B), pH influenced protein solubility remarkably. The minimum solubility is at about pH 3 and maximum solubility at pH 7 with the values of 31.5 % and 86.5 % respectively. In the FTIR result, the graph (C) from the data collected has peaks in the frequency range seen when a compound contains amide I and amide II bonds at between 1,647 and 1,412 cm-1 respectively. The protein profile of coloring rice brans is based on SDS-PAGE analysis, the rice brans protein are detected on SDS-PAGE with Foetal Brovine Serum staining, molecular weight of rice brans protein according to gel SDS-PAGE analysis. The sample is having MW between 57 - 69 kDa as shown in (D). About the proximate analysis, there are 32.5, 4.85, and 17.5 %w/w of the C, H, and N concentration. Also, ash content, moisture, crude fiber, fat, crude protein and %NFE are 6.02, 8.05, 2.31, 4.31, 17.71, and 69.65% respectively. Emulsifying activity index and emulsion stability index measured suggested that the rice bran based protein has slightly lower emulsifying properties than that of soy based protein. Foaming has also been investigated indicating a foaming ability of 5-6% and foaming stability of 50% for 10 minutes and 25% for 20 minutes.
 
 ### Discussion and Conclusion
 
-This study of enzymatic extraction from rice brans is applied to Sangyod rice brans from Thailand, enzymatic methodologies are applied as a substitution for alkaline and other extraction methods. In addition, this can be applied for industrial process of manufacturing protein supplements or other products for economic and social benefits. 
-From the experiments, it was found that the optimum condition is 50oC, the extraction time is 4 hours and the enzymatic activity is 26,000 U/ml. The result is intuitive since the increase in either the extraction time or the enzymatic activity simultaneously increases the protein yield in the experiments. Furthermore, this study also focuses on the characterization of the proteins that were extracted from the previous steps. This research has selected the methods that are important to the properties of the rice brans that will be important for mass production in this category of products.
+This study of enzymatic extraction from rice brans is applied to Sangyod rice brans from Thailand, Cellulase enzymatic methodologies are applied as a substitution for alkaline and other extraction methods. In addition, this can be applied for industrial process of manufacturing protein supplements or other products for economic and social benefits. 
+From the laboratory, it is found that the optimum condition is 50oC, the extraction time is 4 hours and the enzymatic activity is 26,000 U/ml. The result is intuitive since the increase in either the extraction time or the enzymatic activity simultaneously increases the protein yield in the experiments. Furthermore, this study also focuses on the characterization of the proteins that were extracted from the previous steps. This research has selected the methods that are important to the properties of the rice brans that will be important for mass production in this category of products.
 
 ### About the authors
 
