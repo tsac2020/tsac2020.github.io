@@ -56,5 +56,4 @@ theme: minima
 #   - vendor/ruby/
 
 header_pages:
-  - abstracts.markdown
   - about.markdown
