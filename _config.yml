@@ -56,5 +56,4 @@ theme: jekyll-theme-slate
 #   - vendor/ruby/
 
 header_pages:
-  - abstracts.markdown
-  - about.markdown
+  - editorial.markdown
