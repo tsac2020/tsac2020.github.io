@@ -57,3 +57,6 @@ theme: jekyll-theme-architect
 
 header_pages:
   - editorial.markdown
+
+github:
+  is_project_page: false
