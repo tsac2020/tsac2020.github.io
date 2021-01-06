@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+}
+
 header {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
@@ -15,19 +19,19 @@ header h2 {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
 
-.h1 {
+h1 {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
 
-.h2 {
+h2 {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
 
-.h3 {
+h3 {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
 
-.h4 {
+h4 {
   font-family: 'Helvetica Neue', Helvetica, Arial;
 }
 
