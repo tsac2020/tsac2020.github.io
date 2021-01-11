@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>in vitro on AJTRE</title>
+    <link>https://www.ajtre.org/tags/in-vitro/</link>
+    <description>Recent content in in vitro on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/in-vitro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A critical step in applying a computational approach for drug discovery under the new outbreak situation</title>
+      <link>https://www.ajtre.org/post/2020/12/31/a-critical-step-in-applying-a-computational-approach-for-drug-discovery-under-the-new-outbreak-situation/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/a-critical-step-in-applying-a-computational-approach-for-drug-discovery-under-the-new-outbreak-situation/</guid>
+      <description>An awareness of uncorrelated and correlated results between in silico and in vitro studies from the identification of enzyme inhibitors. The urgency of the drug discovery against viral infection is raising after the emergence of 2019 new coronavirus epidemic in China. The traditional drug discovery requires years of operation. Therefore, the fast-track strategy has been proceeded by applying a computer-based approach. However, the correlation between this approach and its biological activity is a great concern.</description>
+    </item>
+    
+  </channel>
+</rss>

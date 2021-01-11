@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U-Net on AJTRE</title>
+    <link>https://www.ajtre.org/tags/u-net/</link>
+    <description>Recent content in U-Net on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/u-net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic Brain Tumour Regions Segmentation Using Modified U-Net</title>
+      <link>https://www.ajtre.org/post/2020/12/31/automatic-brain-tumour-regions-segmentation-using-modified-u-net/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/automatic-brain-tumour-regions-segmentation-using-modified-u-net/</guid>
+      <description>Early diagnosis is an important key for brain tumour patients&#39; survival. The segmentation of the tumour regions is done manually by the experts and it is time-consuming. In this work, we present a novel network architecture that automatically segments the whole tumour regions and intra-tumour structures (edema, enhancing tumour, necrotic and non-enhancing tumour). We evaluated the results using dice similarity coefficient and obtained promising results.
+ * corresponding author (keerati.</description>
+    </item>
+    
+  </channel>
+</rss>

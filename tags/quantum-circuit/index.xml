@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantum circuit on AJTRE</title>
+    <link>https://www.ajtre.org/tags/quantum-circuit/</link>
+    <description>Recent content in quantum circuit on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/quantum-circuit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating a challenge of building a superconducting quantum computer</title>
+      <link>https://www.ajtre.org/post/2020/12/31/investigating-a-challenge-of-building-a-superconducting-quantum-computer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/investigating-a-challenge-of-building-a-superconducting-quantum-computer/</guid>
+      <description>Probing two-level systems with a surface acoustic wave resonator Parasitic two-level systems (TLS) coupling to a superconducting quantum circuit causes information loss. To mitigate this problem, a better physical understanding of the coupling mechanism is crucial. Phase noise caused by TLS interaction is investigated by using a surface acoustic wave resonator. The results show a significant correlation of resonance frequency fluctuations between different resonance modes, supporting the prediction of the TLS model.</description>
+    </item>
+    
+  </channel>
+</rss>

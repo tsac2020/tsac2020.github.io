@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forecast on AJTRE</title>
+    <link>https://www.ajtre.org/tags/forecast/</link>
+    <description>Recent content in forecast on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/forecast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effects of Macro Uncertainty on Subjective Uncertainty and Mean Expectation</title>
+      <link>https://www.ajtre.org/post/2020/12/31/effects-of-macro-uncertainty-on-subjective-uncertainty-and-mean-expectation/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/effects-of-macro-uncertainty-on-subjective-uncertainty-and-mean-expectation/</guid>
+      <description>The empirical study of the macro uncertainty’s effect on subjective uncertainty and mean expectation using datasets of households and professional forecasters Macro uncertainty affects the assessed probabilistic distribution of individual economic forecasts. In this study, we empirically document the effects of macro uncertainty on subjective uncertainty (second moment) and mean expectation (first moment) of GDP growth and income forecasts. Based on the four datasets of households and professional forecasters, our results show that macro uncertainty does not always increase subjective uncertainty.</description>
+    </item>
+    
+  </channel>
+</rss>

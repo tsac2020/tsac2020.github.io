@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FMEA on AJTRE</title>
+    <link>https://www.ajtre.org/tags/fmea/</link>
+    <description>Recent content in FMEA on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/fmea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Risk assessment of a self-tracking EM-integrated fetoscope</title>
+      <link>https://www.ajtre.org/post/2020/12/31/risk-assessment-of-a-self-tracking-em-integrated-fetoscope/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/risk-assessment-of-a-self-tracking-em-integrated-fetoscope/</guid>
+      <description>Embedding an electromagnetic (EM) sensing at the tip of a fetoscope is appealing as it would allow to record the position and orientation of the tip of the fetoscope in real time. This tracking information may be useful for advanced guidance schemes that may help the surgeon during the intervention. However, adding such an EM-sensor should be done with great care as it may lead to additional risks for the patients (mother and fetus), the surgeon or the fetoscope itself.</description>
+    </item>
+    
+  </channel>
+</rss>

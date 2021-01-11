@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variational Autoencoders on AJTRE</title>
+    <link>https://www.ajtre.org/tags/variational-autoencoders/</link>
+    <description>Recent content in Variational Autoencoders on AJTRE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ajtre.org/tags/variational-autoencoders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Inpainting with Variational Autoencoders</title>
+      <link>https://www.ajtre.org/post/2020/12/31/image-inpainting-with-variational-autoencoders/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ajtre.org/post/2020/12/31/image-inpainting-with-variational-autoencoders/</guid>
+      <description>Restoring corrupted image with Variational Autoencoders, a machine learning technique This work presents the training methodology of variational autoencoder in order to restore the missing part of a corrupted image and question the requirement of homogeneity in the implementation and difference situation of corrupted data.
+ * corresponding author (cg226@stud.uni-heidelberg.de)
+Received: 01 March 2020, Accepted: 09 June 2020, Published: 31 December 2020
+DOI: 10.5281/zenodo.4383315 | 📁 view PDF file</description>
+    </item>
+    
+  </channel>
+</rss>
