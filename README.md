@@ -2,7 +2,7 @@
 
 URL: [www.ajtre.org](https://www.ajtre.org)
 
-The website was generated using BLOGDOWN + HUGO
+The website was generated using [Blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/).
 
 All related packages used to generate the website are
 
@@ -26,7 +26,7 @@ loaded via a namespace (and not attached):
  [9] knitr_1.30      digest_0.6.27   xfun_0.20       rlang_0.4.10    evaluate_0.14 
 ```
 
-The version of HUGO is
+The version of [Hugo](https://gohugo.io/) is
 
 ```
 $ hugo version
