@@ -37,3 +37,4 @@ The website was generated with the theme [hugo-xmag](https://github.com/yihui/hu
 
 ![theme preview](https://raw.githubusercontent.com/yihui/hugo-xmag/master/images/screenshot.png)
 
+We slightly changed the theme to match with our purposes with respecting to the [MIT license](https://choosealicense.com/licenses/mit/) of the theme.
