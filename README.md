@@ -4,7 +4,7 @@ URL: [www.ajtre.org](https://www.ajtre.org)
 
 The website was generated using BLOGDOWN + HUGO
 
-See related packages used to generate the website:
+All related packages used to generate the website are
 
 ```
 > sessionInfo()
@@ -26,9 +26,12 @@ loaded via a namespace (and not attached):
  [9] knitr_1.30      digest_0.6.27   xfun_0.20       rlang_0.4.10    evaluate_0.14 
 ```
 
-and the version of HUGO
+The version of HUGO is
 
 ```
 $ hugo version
 Hugo Static Site Generator v0.80.0/extended darwin/amd64 BuildDate: unknown
 ```
+
+The website was generated with the theme [hugo-xmag](https://github.com/yihui/hugo-xmag) by [Yihui](https://yihui.org/en/).
+
