@@ -25,3 +25,10 @@ loaded via a namespace (and not attached):
  [1] compiler_4.0.2  bookdown_0.21   htmltools_0.5.0 tools_4.0.2     yaml_2.2.1      tinytex_0.28    rmarkdown_2.6   blogdown_1.0.1 
  [9] knitr_1.30      digest_0.6.27   xfun_0.20       rlang_0.4.10    evaluate_0.14 
 ```
+
+and the version of HUGO
+
+```
+$ hugo version
+Hugo Static Site Generator v0.80.0/extended darwin/amd64 BuildDate: unknown
+```
