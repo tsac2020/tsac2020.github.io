@@ -35,3 +35,5 @@ Hugo Static Site Generator v0.80.0/extended darwin/amd64 BuildDate: unknown
 
 The website was generated with the theme [hugo-xmag](https://github.com/yihui/hugo-xmag) by [Yihui](https://yihui.org/en/).
 
+![theme preview](https://raw.githubusercontent.com/yihui/hugo-xmag/master/images/screenshot.png)
+
